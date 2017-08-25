@@ -1,0 +1,42 @@
+{
+	"origin": [
+		"#intro# #things# #reason# "
+	],
+	"intro": [
+		"Hi, I'm Market Arment and today I'm selling",
+                "Hi, I'm Market Arment and today I'm repurchasing",
+		"Hi, I'm Market Arment and today I'm buying"
+	],
+	"things": [
+		"a brand new m5",
+		"an iMac",
+                "a new dog",
+                "a fried walrus",
+                "a nuclear monster",
+		"a MacBook Adorable",
+		"a toaster with a pizza oven",
+		"a Windows gaming computer",
+		"a new Humvee",
+		"a very loud mechanical keyboard",
+		"the debris of the last Space-X experiment",
+                "a newspaper",
+                "the magazine",
+                "overcast",
+                "the rights to tim cook's likeness",
+                "a bagel restaurant",
+                "casey's eternal soul",
+                "the rights to every song by Phish, and the band's contract",
+                "my own jam band",
+                "a new toaster for Siracusa",
+                "a bicycle",
+		"instapaper"
+	],
+	"reason": [
+		"because it comes in white",
+		"for my new house on the moon",
+		"because I can play Total Annihilation on it ",
+                "since I can't remember where I left it",
+                "because it can even make toast",
+		"because it makes loud noises"
+	]
+}
